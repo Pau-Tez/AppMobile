@@ -1,0 +1,3 @@
+rootProject.name = 'AppTeshis'
+
+include ':app'
